@@ -1,0 +1,32 @@
+discipline_id,discipline,control_id,semester
+1,KOEP,6,5
+2,Foreign language,1,5
+3,Jurisprudence,1,5
+4,TKM,1,5
+5,Filosofy,1,5
+6,Fizcultura,1,5
+7,Osnovi optiki,2,5
+8,Prikladnaya optika,2,5
+9,Electronics,2,5
+10,Electronics,6,6
+11,BZD,1,6
+12,Prikladnaya optika,1,6
+13,Russian language,1,6
+14,YTS,1,6
+15,Ecology,1,6
+16,Fizcultura,1,6
+17,IiPI,2,6
+18,OMiT,2,6
+19,Osnovi optiki,2,6
+20,Technology practice,4,6
+21,Foreign language,3,6
+22,Prikladnaya optika,6,7
+23,OMiT,6,7
+24,History of optics,1,7
+25,CHMvO,1,7
+26,Economics,1,7
+27,POEP,2,7
+28,TOES,2,7
+29,FOL,2,7
+30,IiPI,3,7
+31,NIRS,5,7

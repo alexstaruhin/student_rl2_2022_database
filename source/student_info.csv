@@ -1,0 +1,15 @@
+student_info_id,student_id,gender,city_id,type,company
+1,1,Male,2,budget,
+2,2,Male,1,target,Roskosmos
+3,3,Male,3,budget,
+4,4,Male,1,budget,
+5,5,Female,1,budget,
+6,6,Male,1,budget,
+7,7,Female,4,target,Tula KBP
+8,8,Male,4,target,Tula KBP
+9,9,Male,1,target,Roskosmos
+10,10,Female,1,budget,
+11,11,Female,1,target,Oreon
+12,12,Female,1,target,PAO Ilyshin
+13,13,Male,5,budget,
+14,14,Male,6,budget,
